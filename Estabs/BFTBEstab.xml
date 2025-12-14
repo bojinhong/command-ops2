@@ -51168,7 +51168,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
     <must-deploy-to-fire>yes</must-deploy-to-fire>
     <performance-list>
       <performance fire-type="aair">
-        <ammo object-id="10" name="2cm HE" load="0" />
+        <ammo object-id="10" load="0" />
         <min-range>100</min-range>
         <rof slow="5.0" normal="10.0" rapid="20.0" />
         <burst-radius>4</burst-radius>
@@ -51183,7 +51183,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
         </range-table>
       </performance>
       <performance fire-type="aarm">
-        <ammo object-id="7" name="2cm AP" load="200" />
+        <ammo object-id="7" load="200" />
         <min-range>20</min-range>
         <rof slow="1.0" normal="3.0" rapid="6.0" />
         <burst-radius>4</burst-radius>
@@ -51198,7 +51198,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
         </range-table>
       </performance>
       <performance fire-type="aper">
-        <ammo object-id="10" name="2cm HE" load="1800" />
+        <ammo object-id="10" load="1800" />
         <min-range>50</min-range>
         <rof slow="5.0" normal="10.0" rapid="20.0" />
         <burst-radius>4</burst-radius>
@@ -51217,7 +51217,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
   <weapon id="10231">
     <name>2cm Gebirgsflak 38</name>
     <description>The Gebirgsflak 38 was a lightweight version of the 2 cm FlaK 38 designed for airborne and mountain troops as a dual purpose gun for use against air and ground targets. The main difference was that the carriage was smaller and lighter than the carriage for the FlaK 38. The gun and carriage were designed to allow the weapon to be broken into several pack loads for transport.</description>
-    <picture id="10233" />
+    <picture />
     <picture-filename>Flak 38 20mm-ok.RSRC</picture-filename>
     <size width="1.0" height="1.0" length="1.0" weight="312" />
     <crew>6</crew>
@@ -52039,7 +52039,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
   <weapon id="10222">
     <name>10.5cm GebH 40 mtn how</name>
     <description>An advanced and unusual design, the 10.5cm Gebirgshaubitze ( mountain howitzer ) 40 was issued to the heavy batteries of mountain divisions.</description>
-    <picture id="10223" />
+    <picture />
     <picture-filename>FH 18 105mm how-ok.RSRC</picture-filename>
     <size width="1.97998" height="1.879883" length="3.19" weight="1660" />
     <crew>5</crew>
